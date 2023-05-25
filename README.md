@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SWETHA.work
+- 👋 Hi, I’m @SWETHA
 - 👀 I’m interested in cloud services
 - 🌱 I’m currently learning aws
 - 💞️ I’m looking to collaborate on projects related to cloud
